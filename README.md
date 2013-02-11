@@ -33,3 +33,9 @@ Please [submit an Issue](https://github.com/Jamesking56/wordpress2tumblr/issues)
 ----
 # Licensing
 <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">wordpress2tumblr</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.jamesking56.co.uk" property="cc:attributionName" rel="cc:attributionURL">James King</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</p>
+
+To meet licensing, you must attribute any derivatives of my work back to me James King and link www.Jamesking56.co.uk in the copyright as the original author. You must also share your derivative of my work under this same license.
+
+This work (or any derivatives) cannot be used commercially. If you wish to use this software commercially, please contact me.
+
+Any of the above conditions can be waived by the original author (aka. Me, James King). Please contact me if you require a license restriction to be waived.
