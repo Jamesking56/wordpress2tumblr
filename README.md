@@ -1,4 +1,4 @@
-wordpress2tumblr
+wordpress2tumblr [![Project Status](http://stillmaintained.com/Jamesking56/wordpress2tumblr.png)](http://stillmaintained.com/Jamesking56/wordpress2tumblr)
 ================
 
 Easy WordPress to Tumblr wizard! Easily export your WordPress posts right into Tumblr using this easy wizard!
